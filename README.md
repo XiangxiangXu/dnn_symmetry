@@ -1,4 +1,4 @@
-# dnn_symmetry
+# Symmetry of Feature and Weights in DNNs
 A simple demo to verify the symmetry of Feature and Weights in DNNs. The weights of Y-X network (right) should coincide with the feature extracted by X-Y network (left):
 
 <img src="images/sym.png" width="768">
